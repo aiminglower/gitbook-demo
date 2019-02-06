@@ -7,3 +7,5 @@
 * [Chapter2](chapter2/README.md)
     * [Section2.1](chapter2/section2.1.md)
     * [Section2.2](chapter2/section2.2.md)
+        * [Section2.2.1](chapter2/section2.2/section2.2.1.md)
+        * [Section2.2.2](chapter2/section2.2/section2.2.2.md)
